@@ -1,0 +1,11 @@
+{
+  "name": "radiation",
+  "description": "simple text editor framework for javascript, written in typescript.",
+  "author": {
+    "name": "Fynotix",
+    "email": "fynotix.dev@gmail.com"
+  },
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
