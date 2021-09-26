@@ -1,1 +1,5 @@
-[![RADIATION](https://raw.githubusercontent.com/Uranium-Development/Uranium/82c787953e6d726babf2ca36cf8b42a63c1ea18d/src/images/UraniumLogo.svg)](https://github.com/Dollor-Lua/Uranium/search?l=javascript&type=code)
+[![RADIATION](https://github.com/Uranium-Development/Radiation/blob/master/images/RadiationText.png?raw=true)](https://github.com/Uranium-Development/Radiation/search?l=typescript&type=code)
+[![Typescript](https://img.shields.io/github/package-json/dependency-version/Uranium-Development/Radiation/typescript)](https://www.typescriptlang.org)
+[![License](https://img.shields.io/github/license/Uranium-Development/Radiation)](https://www.github.com/Uranium-Development/Radiation/blob/master/LICENSE)
+
+Readme will be updated soon.
