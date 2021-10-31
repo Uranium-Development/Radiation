@@ -1,4 +1,4 @@
-export class session {
+export default class session {
 	document: string = "";
 	mode: string = "plainText";
 

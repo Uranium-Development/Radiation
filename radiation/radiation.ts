@@ -1,4 +1,6 @@
-import { session } from './session';
+import session from './session';
+import editc, { editor } from './editor';
+import trueditor from './trueditor';
 
 export const edit = (element: string, options: any) => {
 	var _id = element;
@@ -11,5 +13,9 @@ export const edit = (element: string, options: any) => {
 	}
 
 	var ns: session = new session(options.text ? options.text : "", options);
+	var ed: editc = new editc(ele!);
 
+	var truedit: trueditor = new trueditor(ed, ns);
+
+	
 }
